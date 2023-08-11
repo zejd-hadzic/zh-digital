@@ -1,2 +1,2 @@
 # zh-digital
-ZH Digital landing page v.2
+ZH Digital's landing page - v.2
