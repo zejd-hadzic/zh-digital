@@ -1,10 +1,10 @@
 # zh-digital
-ZH Digital's landing page - v.2
+## ZH Digital's landing page - v.2
+### deployed on 000webhost
 
-site is seo optimized
-
-deployed on github pages.
-
-probably the last version
-
-still editing website text
+Tech Used:
+* HTML
+* CSS
+* TAILWIND CSS
+* JS
+* TYPED JS
